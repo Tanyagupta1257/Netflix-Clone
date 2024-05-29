@@ -1,1 +1,1 @@
-# Netflix-Clone
+A dynamic movie streaming website.
